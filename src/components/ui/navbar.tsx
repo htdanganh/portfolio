@@ -12,7 +12,7 @@ const Navbar = () => {
         <NavigationMenu>
         <NavigationMenuList>
           <NavigationMenuItem>
-            <Link href="https://www.youtube.com/" legacyBehavior passHref>
+            <Link href="/" legacyBehavior passHref>
               <NavigationMenuLink className={navigationMenuTriggerStyle()}>
                 Home
               </NavigationMenuLink>
@@ -20,7 +20,7 @@ const Navbar = () => {
           </NavigationMenuItem>
 
           <NavigationMenuItem>
-            <Link href="https://www.youtube.com/" legacyBehavior passHref>
+            <Link href="/gallery" legacyBehavior passHref>
               <NavigationMenuLink className={navigationMenuTriggerStyle()}>
                 Gallery
               </NavigationMenuLink>
@@ -28,7 +28,7 @@ const Navbar = () => {
           </NavigationMenuItem>
 
           <NavigationMenuItem>
-            <Link href="https://www.youtube.com/" legacyBehavior passHref>
+            <Link href="/about" legacyBehavior passHref>
               <NavigationMenuLink className={navigationMenuTriggerStyle()}>
                 About
               </NavigationMenuLink>
