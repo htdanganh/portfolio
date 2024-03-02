@@ -13,8 +13,8 @@ export default function Home() {
                 Hello, I'm Anh
             </h1>
             <br />
-            <p className="text-lg"> Lover of learning and creating all sorts of things. Aspiring software engineer. </p>
-            <p className="text-lg"> Check out my photos and projects using the links above. </p>
+            <p className="text-lg"> Lover of learning and creating all sorts of things. Software and AI engineer. </p>
+            <p className="text-lg"> Currently building a machine learning project to create a house value predictor. </p>
             <br />
             <p className="text-lg"> Check out my photos using the links above. </p>
           </div>
