@@ -11,9 +11,10 @@ export default function About() {
             <img src="/images/self.jpg" height="300px" width="300px"/>
             <div className="flex-container" >
                 <br />
-                <p className="text-med">Welcome to my comfort spot. I am Anh, and I am a student at Georgia Tech. I am currently studying Computer Science, diving into the deeper wonders of AI and ML. I am joyous to share my tidbits of projects and hobbies through this website. </p>
                 <br />
-                <p className="text-med"> In my free time, I love to learn about new things, whether it be a new skill, hobby, or activity. I am an avid journaler, and I love to collect various types of notebooks and fountain pens to write with. I also love to take photos, specializing in digital photography and occasionally film photography. </p>
+                <p className="text-lg">Welcome to my comfort spot. I am Anh, and I am a student at Georgia Tech. I am currently studying Computer Science, diving into the deeper wonders of AI and ML. I am joyous to share my tidbits of projects and hobbies through this website. </p>
+                <br />
+                <p className="text-lg"> In my free time, I love to learn about new things, whether it be a new skill, hobby, or activity. I am an avid journaler, and I love to collect various types of notebooks and fountain pens to write with. I also love to take photos, specializing in digital photography and occasionally film photography. </p>
             </div>
         </main>
     </body>
